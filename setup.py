@@ -7,7 +7,7 @@ setup(
     url='https://github.com/dddpt/nlp_pred_true_comparator',
     author='Didier Dupertuis',
     license='Apache License 2.0',
-    packages=['src'],
+    packages=['nlppredtruecomparator_test'],
     install_requires=[
         'ipykernel>=6.4.1',
         'ipython>=7.28.0',
