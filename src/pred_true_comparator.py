@@ -23,19 +23,19 @@ def clef_hipe_load_conllu_tsv_to_dict(filepath):
 
 
 def compare_pred_true(
-    pred_conllu:Sequence[dict],      # prediction as a list of tokens, each token is a dict
-    true_conllu:Sequence[dict],      # ground truth as a list of tokens, each token is a dict
+    pred_data:Sequence[dict],      # prediction as a list of tokens, each token is a dict
+    true_data:Sequence[dict],      # ground truth as a list of tokens, each token is a dict
     text_property:str,               # the entry of the token dict containing its text content
     compare_property:str,            # the entry containing the prediction/ground truth to compare
     separatorsProperty:str = "MISC", # the entry for line separators, which contains any combination of: EndOfLine, EndOfParagraph, NoSpaceAfter
     properties_to_display:Sequence[str] =[] # additional properties to display in additon to the pred-true comparison
 ):
-    for p in pred_conllu:
+    for p in pred_data:
         p["text"] = p[text_property]
-    for t in true_conllu:
+    for t in true_data:
         t["text"] = t[text_property]
-    predstr = str(pred_conllu).replace("\n", "")
-    truestr = str(true_conllu).replace("\n", "")
+    predstr = str(pred_data).replace("\n", "")
+    truestr = str(true_data).replace("\n", "")
     properties_to_display_str = str(properties_to_display).replace("\n", "")
     jsCode = css_string_var_declaration+pred_true_comparator_js_content+f'''
     element.append(visualizePredTrueComparison({predstr}, {truestr}, "{compare_property}", "{separatorsProperty}", {properties_to_display_str}))'''
