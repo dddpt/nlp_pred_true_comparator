@@ -8,6 +8,8 @@ setup(
     author='Didier Dupertuis',
     license='Apache License 2.0',
     packages=['nlppredtruecomparator_test'],
+    package_data={'': ['*.css', '*.js']},
+    include_package_data=True,
     install_requires=[
         'ipykernel>=6.4.1',
         'ipython>=7.28.0',
