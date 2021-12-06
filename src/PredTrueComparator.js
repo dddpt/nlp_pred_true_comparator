@@ -17,26 +17,26 @@
  *      + visualizePredTrueComparison() combines both functions for the best
  * - token: unclassed JS obj with fields
  *      - text: text of token
+ *      - compareProperty: what to compare
  *      - separator (optional): str, separator(s) specification after the token by default a space, can contain:
      *      - EndOfLine (optional): boolean for <br/>
  *          - EndOfParagraph (optional): boolean for <p>...</p>
  *          - NoSpaceAfter (optional): whether to add a space after
- * - visualizeDocument() arguments:
- *      + tokens, with visualizationHtmlClasses property
- *      + relevantFields, list of fields to display for each token
  */
 
 
 
 var VIZ_HTML_CLASSES_PROPERTY = "visualizationHtmlClasses"
-var END_OF_LINE_PROPERTY = "EndOfLine"
-var END_OF_PARAGRAPH_PROPERTY = "EndOfParagraph"
+
+var SEPARATOR_END_OF_LINE = "EndOfLine"
+var SEPARATOR_END_OF_PARAGRAPH = "EndOfParagraph"
+var SEPARATOR_NO_SPACE_AFTER = "NoSpaceAfter"
 
 var TRUE_VALUE_PROP = "truevalue"
 var PRED_VALUE_PROP = "predvalue"
 var SEPARATORS_PROP = "nlptokenseparator"
 var SNAPSHOT_DIV_CLASS = "nlp-token-snapshot-div"
-var SNAPSHOT_OVERALL_DIV_ID = "nlp-pred-true-comp-div-"
+var NLP_COMP_OVERALL_DIV_CLASS = "nlp-pred-true-comp-div"
 
 // css classes for tokens
 var NLP_LABELLED_TOKEN_CLASS = "nlp-labelled-token"
@@ -146,13 +146,13 @@ function tokenToHTML(token, relevantFields=[], onMouseOver="", separatorsField =
     }
     let separator = " "
     if(token[separatorsField]){
-        if(token[separatorsField].includes("NoSpaceAfter")){
+        if(token[separatorsField].includes(SEPARATOR_NO_SPACE_AFTER)){
             separator = ""
         }
-        if(token[separatorsField].includes("EndOfLine")){
+        if(token[separatorsField].includes(SEPARATOR_END_OF_LINE)){
             separator = "<br/>"
         }
-        if(token[separatorsField].includes("EndOfParagraph")){
+        if(token[separatorsField].includes(SEPARATOR_END_OF_PARAGRAPH)){
             separator = "</p><p>"
         }
     }
@@ -287,7 +287,7 @@ function getPopoverContentTag(content){
 function visualizePredTrueComparison(predTokens, trueTokens, predField, separatorsField="MISC", relevantFields=[]){
 
     const vizUniqueId = Math.floor(Math.random()*100000)
-    const vizDivId = SNAPSHOT_OVERALL_DIV_ID + vizUniqueId
+    const vizDivId = NLP_COMP_OVERALL_DIV_CLASS +"-"+ vizUniqueId
     const snapShotDivId = SNAPSHOT_DIV_CLASS+"-"+ vizUniqueId
     const snapShotDiv =`<div id="${snapShotDivId}" class="${SNAPSHOT_DIV_CLASS}"></div>`
     const tokens = combinePredTrue(predTokens, trueTokens, predField, separatorsField)
@@ -305,5 +305,5 @@ function visualizePredTrueComparison(predTokens, trueTokens, predField, separato
         }))
     }, 500)
 
-    return `<div id="${vizDivId}">\n`+styleTag+"\n"+snapShotDiv+"\n"+contentDiv+"</div>"
+    return `<div id="${vizDivId}" class="${NLP_COMP_OVERALL_DIV_CLASS}">\n`+styleTag+"\n"+snapShotDiv+"\n"+contentDiv+"</div>"
 }

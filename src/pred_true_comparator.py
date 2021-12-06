@@ -1,5 +1,6 @@
 from csv import DictReader
 import os
+from typing import Sequence
 
 from IPython.display import Javascript, display
 
@@ -21,7 +22,14 @@ def clef_hipe_load_conllu_tsv_to_dict(filepath):
 
 
 
-def compare_pred_true(pred_conllu, true_conllu, text_property, compare_property, separatorsProperty, properties_to_display):
+def compare_pred_true(
+    pred_conllu:Sequence[dict],      # prediction as a list of tokens, each token is a dict
+    true_conllu:Sequence[dict],      # ground truth as a list of tokens, each token is a dict
+    text_property:str,               # the entry of the token dict containing its text content
+    compare_property:str,            # the entry containing the prediction/ground truth to compare
+    separatorsProperty:str = "MISC", # the entry for line separators, which contains any combination of: EndOfLine, EndOfParagraph, NoSpaceAfter
+    properties_to_display:Sequence[str] =[] # additional properties to display in additon to the pred-true comparison
+):
     for p in pred_conllu:
         p["text"] = p[text_property]
     for t in true_conllu:
