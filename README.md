@@ -2,7 +2,7 @@
 
 This small utility allows to compare in Jupyter predictions and ground truth for NLP tasks. 
 
-`examples.ipynb` shows simple examples to get you started.
+[`examples.ipynb`](./examples.ipynb) shows simple examples to get you started.
 
 Here is an example output:
 
