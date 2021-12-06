@@ -1,13 +1,13 @@
 from setuptools import setup
 
 setup(
-    name='nlppredtruecomparator',
+    name='nlp_pred_true_comparator',
     version='0.1.0',    
     description='A small tool to interactively compare prediction and ground truth in Jupyter for NLP tasks.',
     url='https://github.com/dddpt/nlp_pred_true_comparator',
     author='Didier Dupertuis',
     license='Apache License 2.0',
-    packages=['nlppredtruecomparator_test'],
+    packages=['nlp_pred_true_comparator'],
     package_data={'': ['*.css', '*.js']},
     include_package_data=True,
     install_requires=[
