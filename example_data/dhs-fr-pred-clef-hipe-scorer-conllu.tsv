@@ -1,0 +1,2245 @@
+TOKEN	NE-COARSE-LIT	NE-COARSE-METO	NE-FINE-LIT	NE-FINE-METO	NE-FINE-COMP	NE-NESTED	NEL-LIT	NEL-METO	MISC
+# language = fr									
+# newspaper = DHS									
+# date = 1918-11-08									
+# document_id = Alfred Bühler.fr.txt									
+# segment_iiif_link = _									
+14.1.1900	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+Zoug	O	O	O	O	O	O	Q68144	-	-
+,	O	O	O	O	O	O		-	-
+29.7.1981	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+Bâle	O	O	O	O	O	O	Q78	-	-
+,	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Bubikon	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Bâle	O	O	O	O	O	O	Q78	-	-
+dès	O	O	O	O	O	O		-	-
+1915	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Fils	O	O	O	O	O	O	-	-	-
+d'	O	O	O	O	O	O	-	-	-
+Alfred	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+employé	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+chemin	O	O	O	O	O	O	Q22667	-	-
+de	O	O	O	O	O	O	Q22667	-	-
+fer	O	O	O	O	O	O	Q22667	-	-
+,	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+d'	O	O	O	O	O	O		-	-
+Ida	O	O	O	O	O	O	-	-	-
+Hitz	O	O	O	O	O	O	-	-	-
+.	O	O	O	O	O	O	-	-	-
+​Kristin	O	O	O	O	O	O	-	-	-
+Oppenheim	O	O	O	O	O	O	-	-	-
+.	O	O	O	O	O	O	-	-	-
+Gymnase	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+école	O	O	O	O	O	O		-	-
+normale	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+études	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+géographie	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+Bâle	O	O	O	O	O	O	Q78	-	-
+(	O	O	O	O	O	O		-	-
+doctorat	O	O	O	O	O	O	Q849697	-	-
+en	O	O	O	O	O	O		-	-
+1928	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+B.	O	O	O	O	O	O		-	-
+fit	O	O	O	O	O	O		-	-
+des	O	O	O	O	O	O		-	-
+séjours	O	O	O	O	O	O		-	-
+d'	O	O	O	O	O	O		-	-
+étude	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+Nouvelle	O	O	O	O	O	O	Q40285	-	-
+-	O	O	O	O	O	O	Q40285	-	-
+Guinée	O	O	O	O	O	O	Q40285	-	-
+,	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+Indonésie	O	O	O	O	O	O	Q252	-	-
+,	O	O	O	O	O	O		-	-
+aux	O	O	O	O	O	O		-	-
+Indes	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+Thaïlande	O	O	O	O	O	O	Q869	-	-
+du	O	O	O	O	O	O		-	-
+Nord	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+au	O	O	O	O	O	O		-	-
+Japon	O	O	O	O	O	O	Q17	-	-
+,	O	O	O	O	O	O		-	-
+se	O	O	O	O	O	O		-	-
+spécialisant	O	O	O	O	O	O		-	-
+dans	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+art	O	O	O	O	O	O		-	-
+des	O	O	O	O	O	O		-	-
+îles	O	O	O	O	O	O		-	-
+des	O	O	O	O	O	O		-	-
+mers	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+Sud	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+dans	O	O	O	O	O	O		-	-
+les	O	O	O	O	O	O		-	-
+techniques	O	O	O	O	O	O		-	-
+textiles	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Conservateur	O	O	O	O	O	O	-	-	-
+du	O	O	O	O	O	O		-	-
+Musée	O	O	O	O	O	O	Q1955752	-	-
+d'	O	O	O	O	O	O	Q1955752	-	-
+ethnographie	O	O	O	O	O	O	Q1955752	-	-
+de	O	O	O	O	O	O		-	-
+Bâle	O	O	O	O	O	O	Q78	-	-
+dès	O	O	O	O	O	O		-	-
+1938	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+il	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+fut	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+directeur	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+1950	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+1964	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Habilitation	O	O	O	O	O	O	Q308678	-	-
+en	O	O	O	O	O	O		-	-
+1944	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Professeur	O	O	O	O	O	O		-	-
+extraordinaire	O	O	O	O	O	O		-	-
+(	O	O	O	O	O	O		-	-
+1950	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+puis	O	O	O	O	O	O		-	-
+ordinaire	O	O	O	O	O	O		-	-
+(	O	O	O	O	O	O		-	-
+1959	O	O	O	O	O	O		-	-
+-	O	O	O	O	O	O		-	-
+1970	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+d'	O	O	O	O	O	O		-	-
+ethnologie	O	O	O	O	O	O	Q43455	-	-
+à	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+université	O	O	O	O	O	O	Q372608	-	-
+de	O	O	O	O	O	O	Q372608	-	-
+Bâle	O	O	O	O	O	O	Q372608	-	-
+et	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+premier	O	O	O	O	O	O		-	-
+titulaire	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+cette	O	O	O	O	O	O		-	-
+chaire	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Il	O	O	O	O	O	O		-	-
+rassembla	O	O	O	O	O	O		-	-
+une	O	O	O	O	O	O		-	-
+vaste	O	O	O	O	O	O		-	-
+collection	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+textiles	O	O	O	O	O	O		-	-
+au	O	O	O	O	O	O		-	-
+Musée	O	O	O	O	O	O	Q1955752	-	-
+d'	O	O	O	O	O	O	Q1955752	-	-
+ethnographie	O	O	O	O	O	O	Q1955752	-	-
+.	O	O	O	O	O	O		-	-
+En	O	O	O	O	O	O		-	-
+1969	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+il	O	O	O	O	O	O		-	-
+prépara	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+ouvrit	O	O	O	O	O	O		-	-
+au	O	O	O	O	O	O		-	-
+public	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+collection	O	O	O	O	O	O		-	-
+des	O	O	O	O	O	O		-	-
+mers	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+Sud	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+Musée	O	O	O	O	O	O	Q668300	-	-
+Rietberg	O	O	O	O	O	O	Q668300	-	-
+de	O	O	O	O	O	O		-	-
+Zurich	O	O	O	O	O	O	Q72	-	-
+.	O	O	O	O	O	O		-	-
+Président	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+Société	O	O	O	O	O	O	-	-	-
+suisse	O	O	O	O	O	O	-	-	-
+des	O	O	O	O	O	O	-	-	-
+traditions	O	O	O	O	O	O	-	-	-
+populaires	O	O	O	O	O	O	-	-	-
+(	O	O	O	O	O	O		-	-
+1943	O	O	O	O	O	O		-	-
+-	O	O	O	O	O	O		-	-
+1946	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+il	O	O	O	O	O	O		-	-
+lança	O	O	O	O	O	O		-	-
+notamment	O	O	O	O	O	O		-	-
+les	O	O	O	O	O	O		-	-
+recherches	O	O	O	O	O	O		-	-
+sur	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+maison	O	O	O	O	O	O		-	-
+paysanne	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+									
+									
+# language = fr									
+# newspaper = DHS									
+# date = 1918-11-08									
+# document_id = Alois Franz Peter Glutz von Blotzheim.fr.txt									
+# segment_iiif_link = _									
+2.4.1789	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+Olten	O	O	O	O	O	O	Q68129	-	-
+,	O	O	O	O	O	O		-	-
+6.9.1827	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+Schwytz	O	O	O	O	O	O	Q12433	-	-
+,	O	O	O	O	O	O		-	-
+cath	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Soleure	O	O	O	O	O	O	Q68965	-	-
+.	O	O	O	O	O	O		-	-
+Fils	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Bernhard	O	O	O	O	O	O		-	-
+Josef	O	O	O	O	O	O		-	-
+Malachias	O	O	O	O	O	O		-	-
+Franz	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+membre	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+Grand	O	O	O	O	O	O	Q667186	-	-
+Conseil	O	O	O	O	O	O	Q667186	-	-
+,	O	O	O	O	O	O		-	-
+secrétaire	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+ville	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+trésorier	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Célibataire	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+G.	O	O	O	O	O	O		-	-
+perdit	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+vue	O	O	O	O	O	O		-	-
+durant	O	O	O	O	O	O		-	-
+sa	O	O	O	O	O	O		-	-
+première	O	O	O	O	O	O		-	-
+enfance	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+n'	O	O	O	O	O	O		-	-
+eut	O	O	O	O	O	O		-	-
+qu'	O	O	O	O	O	O		-	-
+une	O	O	O	O	O	O		-	-
+formation	O	O	O	O	O	O		-	-
+lacunaire	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Il	O	O	O	O	O	O		-	-
+déménagea	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+Soleure	O	O	O	O	O	O	Q68965	-	-
+avec	O	O	O	O	O	O		-	-
+sa	O	O	O	O	O	O		-	-
+famille	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+1792	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Après	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+mort	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+son	O	O	O	O	O	O		-	-
+père	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+1811	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+G.	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+autodidacte	O	O	O	O	O	O	Q207650	-	-
+,	O	O	O	O	O	O		-	-
+parcourut	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+pays	O	O	O	O	O	O		-	-
+comme	O	O	O	O	O	O		-	-
+chanteur	O	O	O	O	O	O		-	-
+itinérant	O	O	O	O	O	O		-	-
+aveugle	O	O	O	O	O	O		-	-
+avec	O	O	O	O	O	O		-	-
+sa	O	O	O	O	O	O		-	-
+guitare	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+son	O	O	O	O	O	O		-	-
+flageolet	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+s'	O	O	O	O	O	O		-	-
+établissant	O	O	O	O	O	O		-	-
+ensuite	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+Aarau	O	O	O	O	O	O	Q14274	-	-
+(	O	O	O	O	O	O		-	-
+1824	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Il	O	O	O	O	O	O		-	-
+chantait	O	O	O	O	O	O		-	-
+ses	O	O	O	O	O	O		-	-
+compositions	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+dont	O	O	O	O	O	O		-	-
+il	O	O	O	O	O	O		-	-
+écrivait	O	O	O	O	O	O		-	-
+texte	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+musique	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+dialecte	O	O	O	O	O	O		-	-
+soleurois	O	O	O	O	O	O	Q11929	-	-
+,	O	O	O	O	O	O		-	-
+se	O	O	O	O	O	O		-	-
+plaçant	O	O	O	O	O	O		-	-
+ainsi	O	O	O	O	O	O		-	-
+dans	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+lignée	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+poètes	O	O	O	O	O	O		-	-
+patoisants	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+tels	O	O	O	O	O	O		-	-
+Gottlieb	O	O	O	O	O	O	-	-	-
+Jakob	O	O	O	O	O	O	-	-	-
+Kuhn	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+Johann	O	O	O	O	O	O	Q116168	-	-
+Rudolf	O	O	O	O	O	O	Q116168	-	-
+Wyss	O	O	O	O	O	O	Q116168	-	-
+ou	O	O	O	O	O	O		-	-
+Johann	O	O	O	O	O	O	Q62512	-	-
+Peter	O	O	O	O	O	O	Q62512	-	-
+Hebel	O	O	O	O	O	O	Q62512	-	-
+.	O	O	O	O	O	O		-	-
+Ludwig	O	O	O	O	O	O		-	-
+Rotschi	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+son	O	O	O	O	O	O		-	-
+compagnon	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+longue	O	O	O	O	O	O		-	-
+date	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+consigna	O	O	O	O	O	O		-	-
+nombre	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+ses	O	O	O	O	O	O		-	-
+compositions	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+devint	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+principal	O	O	O	O	O	O		-	-
+administrateur	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+sa	O	O	O	O	O	O		-	-
+succession	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Poète	O	O	O	O	O	O	Q49757	-	-
+de	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+nature	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+G.	O	O	O	O	O	O		-	-
+illustre	O	O	O	O	O	O		-	-
+dans	O	O	O	O	O	O		-	-
+son	O	O	O	O	O	O		-	-
+œuvre	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+image	O	O	O	O	O	O		-	-
+centrale	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+esthétique	O	O	O	O	O	O		-	-
+romantique	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+									
+									
+# language = fr									
+# newspaper = DHS									
+# date = 1918-11-08									
+# document_id = Balthasar Bundi.fr.txt									
+# segment_iiif_link = _									
+2.2.1786	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+Ilanz	O	O	O	O	O	O	Q64213	-	-
+,	O	O	O	O	O	O		-	-
+4.5.1869	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+Coire	O	O	O	O	O	O	Q69007	-	-
+,	O	O	O	O	O	O		-	-
+prot	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Sagogn	O	O	O	O	O	O	Q65684	-	-
+.	O	O	O	O	O	O		-	-
+Fils	O	O	O	O	O	O		-	-
+d'	O	O	O	O	O	O		-	-
+Hercules	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Margret	O	O	O	O	O	O	-	-	-
+Caflisch	O	O	O	O	O	O	-	-	-
+.	O	O	O	O	O	O	-	-	-
+​Maria	O	O	O	O	O	O	-	-	-
+Hosang	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Coire	O	O	O	O	O	O	Q69007	-	-
+.	O	O	O	O	O	O		-	-
+B.	O	O	O	O	O	O		-	-
+fit	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+campagne	O	O	O	O	O	O	Q152499	-	-
+d'	O	O	O	O	O	O	Q152499	-	-
+Espagne	O	O	O	O	O	O	Q152499	-	-
+,	O	O	O	O	O	O		-	-
+puis	O	O	O	O	O	O		-	-
+celle	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Russie	O	O	O	O	O	O	Q159	-	-
+en	O	O	O	O	O	O		-	-
+1812	O	O	O	O	O	O		-	-
+dans	O	O	O	O	O	O		-	-
+les	O	O	O	O	O	O		-	-
+troupes	O	O	O	O	O	O		-	-
+napoléoniennes	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+fut	O	O	O	O	O	O		-	-
+promu	O	O	O	O	O	O		-	-
+capitaine	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Lors	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+révolution	O	O	O	O	O	O	Q214028	-	-
+de	O	O	O	O	O	O	Q214028	-	-
+Juillet	O	O	O	O	O	O	Q214028	-	-
+1830	O	O	O	O	O	O	Q214028	-	-
+,	O	O	O	O	O	O		-	-
+il	O	O	O	O	O	O		-	-
+combat	O	O	O	O	O	O		-	-
+dans	O	O	O	O	O	O		-	-
+les	O	O	O	O	O	O		-	-
+troupes	O	O	O	O	O	O		-	-
+qui	O	O	O	O	O	O		-	-
+défendent	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+régime	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Charles	O	O	O	O	O	O	Q7758	-	-
+ 	O	O	O	O	O	O	Q7758	-	-
+X.	O	O	O	O	O	O	Q7758	-	-
+En	O	O	O	O	O	O		-	-
+1847	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+colonel	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+première	O	O	O	O	O	O		-	-
+brigade	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+division	O	O	O	O	O	O		-	-
+Rilliet	O	O	O	O	O	O		-	-
+-	O	O	O	O	O	O		-	-
+Constant	O	O	O	O	O	O		-	-
+pendant	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+guerre	O	O	O	O	O	O	Q688297	-	-
+du	O	O	O	O	O	O	Q688297	-	-
+Sonderbund	O	O	O	O	O	O	Q688297	-	-
+,	O	O	O	O	O	O		-	-
+il	O	O	O	O	O	O		-	-
+commande	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+place	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Fribourg	O	O	O	O	O	O	Q36378	-	-
+après	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+reddition	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+cette	O	O	O	O	O	O		-	-
+ville	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+									
+									
+# language = fr									
+# newspaper = DHS									
+# date = 1918-11-08									
+# document_id = Bernhard Luginbühl.fr.txt									
+# segment_iiif_link = _									
+16.2.1929	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+Berne,19.2.2011	O	O	O	O	O	O	Q70	-	-
+à	O	O	O	O	O	O		-	-
+Langnau	O	O	O	O	O	O	Q66300	-	-
+im	O	O	O	O	O	O	Q66300	-	-
+Emmental	O	O	O	O	O	O	Q66300	-	-
+,	O	O	O	O	O	O		-	-
+sans	O	O	O	O	O	O		-	-
+confession	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Berne	O	O	O	O	O	O	Q70	-	-
+.	O	O	O	O	O	O		-	-
+Fils	O	O	O	O	O	O	-	-	-
+de	O	O	O	O	O	O	-	-	-
+Hans	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+boucher	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+d'	O	O	O	O	O	O		-	-
+Elise	O	O	O	O	O	O		-	-
+née	O	O	O	O	O	O		-	-
+L.	O	O	O	O	O	O		-	-
+​Ursi	O	O	O	O	O	O		-	-
+Maiacher	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+céramiste	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+sculptrice	O	O	O	O	O	O	Q1281618	-	-
+.	O	O	O	O	O	O		-	-
+Apprentissage	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+tailleur	O	O	O	O	O	O	Q328325	-	-
+de	O	O	O	O	O	O	Q328325	-	-
+pierre	O	O	O	O	O	O	Q328325	-	-
+à	O	O	O	O	O	O		-	-
+Berne	O	O	O	O	O	O	Q70	-	-
+et	O	O	O	O	O	O		-	-
+études	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+école	O	O	O	O	O	O		-	-
+d'	O	O	O	O	O	O		-	-
+arts	O	O	O	O	O	O	Q207241	-	-
+appliqués	O	O	O	O	O	O	Q207241	-	-
+(	O	O	O	O	O	O		-	-
+1945	O	O	O	O	O	O		-	-
+-	O	O	O	O	O	O		-	-
+1948	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+formation	O	O	O	O	O	O		-	-
+autodidacte	O	O	O	O	O	O	Q207650	-	-
+à	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+sculpture	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+fer	O	O	O	O	O	O		-	-
+(	O	O	O	O	O	O		-	-
+1949	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Dès	O	O	O	O	O	O		-	-
+cette	O	O	O	O	O	O		-	-
+époque	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+L.	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+également	O	O	O	O	O	O		-	-
+tourné	O	O	O	O	O	O		-	-
+vers	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+art	O	O	O	O	O	O	Q422635	-	-
+action	O	O	O	O	O	O	Q422635	-	-
+,	O	O	O	O	O	O		-	-
+travailla	O	O	O	O	O	O		-	-
+comme	O	O	O	O	O	O		-	-
+sculpteur	O	O	O	O	O	O	Q1281618	-	-
+de	O	O	O	O	O	O		-	-
+fer	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+dessinateur	O	O	O	O	O	O	Q15296811	-	-
+,	O	O	O	O	O	O		-	-
+graphiste	O	O	O	O	O	O	Q627325	-	-
+,	O	O	O	O	O	O		-	-
+réalisateur	O	O	O	O	O	O		-	-
+cinématographique	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+auteur	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+journaux	O	O	O	O	O	O		-	-
+intimes	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Il	O	O	O	O	O	O		-	-
+détruisit	O	O	O	O	O	O		-	-
+sa	O	O	O	O	O	O		-	-
+première	O	O	O	O	O	O		-	-
+sculpture	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+fer	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+un	O	O	O	O	O	O		-	-
+taureau	O	O	O	O	O	O		-	-
+fait	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+tôles	O	O	O	O	O	O		-	-
+soudées	O	O	O	O	O	O		-	-
+datant	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+1949	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+avec	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+ensemble	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+ses	O	O	O	O	O	O		-	-
+premières	O	O	O	O	O	O		-	-
+œuvres	O	O	O	O	O	O		-	-
+figuratives	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+L.	O	O	O	O	O	O		-	-
+trouva	O	O	O	O	O	O		-	-
+sa	O	O	O	O	O	O		-	-
+propre	O	O	O	O	O	O		-	-
+expression	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+1953	O	O	O	O	O	O		-	-
+dans	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+construction	O	O	O	O	O	O		-	-
+métallique	O	O	O	O	O	O		-	-
+abstraite	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+devint	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+un	O	O	O	O	O	O		-	-
+des	O	O	O	O	O	O		-	-
+principaux	O	O	O	O	O	O		-	-
+représentants	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+sculpture	O	O	O	O	O	O		-	-
+mécanique	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Suisse	O	O	O	O	O	O	Q39	-	-
+.	O	O	O	O	O	O		-	-
+Ses	O	O	O	O	O	O		-	-
+œuvres	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+réalisées	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+aide	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+déchets	O	O	O	O	O	O		-	-
+métalliques	O	O	O	O	O	O		-	-
+ou	O	O	O	O	O	O		-	-
+d'	O	O	O	O	O	O		-	-
+éléments	O	O	O	O	O	O		-	-
+forgés	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+doivent	O	O	O	O	O	O		-	-
+être	O	O	O	O	O	O		-	-
+comprises	O	O	O	O	O	O		-	-
+comme	O	O	O	O	O	O		-	-
+des	O	O	O	O	O	O		-	-
+métamorphoses	O	O	O	O	O	O		-	-
+d'	O	O	O	O	O	O		-	-
+énergies	O	O	O	O	O	O		-	-
+vitales	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+souvent	O	O	O	O	O	O		-	-
+animales	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Elles	O	O	O	O	O	O		-	-
+incarnent	O	O	O	O	O	O		-	-
+agressivité	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+soif	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+liberté	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+fougue	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+mais	O	O	O	O	O	O		-	-
+aussi	O	O	O	O	O	O		-	-
+forces	O	O	O	O	O	O		-	-
+destructives	O	O	O	O	O	O		-	-
+menaçantes	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Elles	O	O	O	O	O	O		-	-
+sont	O	O	O	O	O	O		-	-
+parfois	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+taille	O	O	O	O	O	O		-	-
+imposante	O	O	O	O	O	O		-	-
+-	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+Donauatlas	O	O	O	O	O	O		-	-
+(	O	O	O	O	O	O		-	-
+1977	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+mesure	O	O	O	O	O	O		-	-
+23	O	O	O	O	O	O		-	-
+m	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+long	O	O	O	O	O	O		-	-
+-	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+comportent	O	O	O	O	O	O		-	-
+des	O	O	O	O	O	O		-	-
+éléments	O	O	O	O	O	O		-	-
+mobiles	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+A	O	O	O	O	O	O		-	-
+partir	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+1975	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+L.	O	O	O	O	O	O		-	-
+travailla	O	O	O	O	O	O		-	-
+provisoirement	O	O	O	O	O	O		-	-
+avec	O	O	O	O	O	O		-	-
+des	O	O	O	O	O	O		-	-
+moules	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+bois	O	O	O	O	O	O		-	-
+pour	O	O	O	O	O	O		-	-
+pièces	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+fonte	O	O	O	O	O	O		-	-
+dont	O	O	O	O	O	O		-	-
+il	O	O	O	O	O	O		-	-
+fit	O	O	O	O	O	O		-	-
+des	O	O	O	O	O	O		-	-
+formes	O	O	O	O	O	O		-	-
+organiques	O	O	O	O	O	O		-	-
+au	O	O	O	O	O	O		-	-
+foisonnement	O	O	O	O	O	O		-	-
+baroque	O	O	O	O	O	O	Q37853	-	-
+.	O	O	O	O	O	O		-	-
+A	O	O	O	O	O	O		-	-
+dater	O	O	O	O	O	O		-	-
+des	O	O	O	O	O	O		-	-
+années	O	O	O	O	O	O		-	-
+1980	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+les	O	O	O	O	O	O		-	-
+sculptures	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+fer	O	O	O	O	O	O		-	-
+furent	O	O	O	O	O	O		-	-
+parfois	O	O	O	O	O	O		-	-
+réalisées	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+collaboration	O	O	O	O	O	O		-	-
+avec	O	O	O	O	O	O		-	-
+ses	O	O	O	O	O	O		-	-
+fils	O	O	O	O	O	O		-	-
+Brutus	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+Basil	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+Iwan	O	O	O	O	O	O	-	-	-
+.	O	O	O	O	O	O		-	-
+En	O	O	O	O	O	O		-	-
+tant	O	O	O	O	O	O		-	-
+que	O	O	O	O	O	O		-	-
+réalisateur	O	O	O	O	O	O		-	-
+cinématographique	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+L.	O	O	O	O	O	O		-	-
+s'	O	O	O	O	O	O		-	-
+éleva	O	O	O	O	O	O		-	-
+énergiquement	O	O	O	O	O	O		-	-
+contre	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+destruction	O	O	O	O	O	O		-	-
+des	O	O	O	O	O	O		-	-
+fermes	O	O	O	O	O	O		-	-
+bernoises	O	O	O	O	O	O		-	-
+causée	O	O	O	O	O	O		-	-
+par	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+urbanisation	O	O	O	O	O	O	Q161078	-	-
+(	O	O	O	O	O	O		-	-
+Kleiner	O	O	O	O	O	O	-	-	-
+Emmentalfilm	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+1970	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+A	O	O	O	O	O	O		-	-
+partir	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+1976	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+L.	O	O	O	O	O	O		-	-
+enflamma	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+grandes	O	O	O	O	O	O		-	-
+constructions	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+bois	O	O	O	O	O	O		-	-
+truffées	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+fusées	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+feux	O	O	O	O	O	O	Q127933	-	-
+d'	O	O	O	O	O	O	Q127933	-	-
+artifice	O	O	O	O	O	O	Q127933	-	-
+,	O	O	O	O	O	O		-	-
+qui	O	O	O	O	O	O		-	-
+traçaient	O	O	O	O	O	O		-	-
+dans	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+ciel	O	O	O	O	O	O		-	-
+des	O	O	O	O	O	O		-	-
+signes	O	O	O	O	O	O		-	-
+selon	O	O	O	O	O	O		-	-
+un	O	O	O	O	O	O		-	-
+scénario	O	O	O	O	O	O		-	-
+donné	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Sous	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+forme	O	O	O	O	O	O		-	-
+d'	O	O	O	O	O	O		-	-
+une	O	O	O	O	O	O		-	-
+fondation	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+L.	O	O	O	O	O	O		-	-
+a	O	O	O	O	O	O		-	-
+ouvert	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+1998	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+Mötschwil	O	O	O	O	O	O	Q67830	-	-
+un	O	O	O	O	O	O		-	-
+parc	O	O	O	O	O	O		-	-
+qui	O	O	O	O	O	O		-	-
+rend	O	O	O	O	O	O		-	-
+accessible	O	O	O	O	O	O		-	-
+au	O	O	O	O	O	O		-	-
+public	O	O	O	O	O	O		-	-
+une	O	O	O	O	O	O		-	-
+grande	O	O	O	O	O	O		-	-
+partie	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+ses	O	O	O	O	O	O		-	-
+sculptures	O	O	O	O	O	O	Q3476533	-	-
+monumentales	O	O	O	O	O	O	Q3476533	-	-
+.	O	O	O	O	O	O		-	-
+									
+									
+# language = fr									
+# newspaper = DHS									
+# date = 1918-11-08									
+# document_id = Bärenburg.fr.txt									
+# segment_iiif_link = _									
+Château	O	O	O	O	O	O	Q23413	-	-
+fort	O	O	O	O	O	O	Q23413	-	-
+en	O	O	O	O	O	O		-	-
+ruines	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+hameau	O	O	O	O	O	O		-	-
+dans	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+comm	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+d'	O	O	O	O	O	O		-	-
+Andeer	O	O	O	O	O	O	Q64359	-	-
+,	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+1000	O	O	O	O	O	O		-	-
+-	O	O	O	O	O	O		-	-
+1100	O	O	O	O	O	O		-	-
+m	O	O	O	O	O	O		-	-
+d'	O	O	O	O	O	O		-	-
+altitude	O	O	O	O	O	O	Q190200	-	-
+,	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+long	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+ancienne	O	O	O	O	O	O		-	-
+route	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+vallée	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+entre	O	O	O	O	O	O		-	-
+Andeer	O	O	O	O	O	O	Q64359	-	-
+et	O	O	O	O	O	O		-	-
+les	O	O	O	O	O	O		-	-
+gorges	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+Rofla	O	O	O	O	O	O	-	-	-
+.	O	O	O	O	O	O		-	-
+1257	O	O	O	O	O	O		-	-
+Bernburch	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+rom	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Balanburtg	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Les	O	O	O	O	O	O		-	-
+vestiges	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+château	O	O	O	O	O	O		-	-
+occupent	O	O	O	O	O	O		-	-
+une	O	O	O	O	O	O		-	-
+vaste	O	O	O	O	O	O		-	-
+surface	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Il	O	O	O	O	O	O		-	-
+reste	O	O	O	O	O	O		-	-
+des	O	O	O	O	O	O		-	-
+pans	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+mur	O	O	O	O	O	O	Q57346	-	-
+d'	O	O	O	O	O	O	Q57346	-	-
+enceinte	O	O	O	O	O	O	Q57346	-	-
+à	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+est	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+au	O	O	O	O	O	O		-	-
+sud	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+un	O	O	O	O	O	O		-	-
+fossé	O	O	O	O	O	O		-	-
+creusé	O	O	O	O	O	O		-	-
+dans	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+roche	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+La	O	O	O	O	O	O		-	-
+date	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+construction	O	O	O	O	O	O		-	-
+est	O	O	O	O	O	O		-	-
+inconnue	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Des	O	O	O	O	O	O		-	-
+seigneurs	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+B.	O	O	O	O	O	O		-	-
+sont	O	O	O	O	O	O		-	-
+mentionnés	O	O	O	O	O	O		-	-
+dès	O	O	O	O	O	O		-	-
+1257	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+B.	O	O	O	O	O	O		-	-
+était	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+centre	O	O	O	O	O	O		-	-
+administratif	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+comté	O	O	O	O	O	O	Q47168	-	-
+de	O	O	O	O	O	O		-	-
+Schams	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+que	O	O	O	O	O	O		-	-
+les	O	O	O	O	O	O		-	-
+comtes	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Werdenberg	O	O	O	O	O	O	Q693725	-	-
+-	O	O	O	O	O	O		-	-
+Sargans	O	O	O	O	O	O		-	-
+reçurent	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+fief	O	O	O	O	O	O	Q188063	-	-
+de	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+évêque	O	O	O	O	O	O	Q17176426	-	-
+de	O	O	O	O	O	O	Q17176426	-	-
+Coire	O	O	O	O	O	O	Q17176426	-	-
+en	O	O	O	O	O	O		-	-
+1338	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Détruit	O	O	O	O	O	O		-	-
+durant	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+guerre	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Schams	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+1450	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+château	O	O	O	O	O	O		-	-
+ne	O	O	O	O	O	O		-	-
+fut	O	O	O	O	O	O		-	-
+jamais	O	O	O	O	O	O		-	-
+reconstruit	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Dans	O	O	O	O	O	O		-	-
+les	O	O	O	O	O	O		-	-
+essarts	O	O	O	O	O	O	Q2523205	-	-
+en	O	O	O	O	O	O		-	-
+contrebas	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+long	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+route	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+Splügen	O	O	O	O	O	O	Q64195	-	-
+et	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+San	O	O	O	O	O	O	-	-	-
+-	O	O	O	O	O	O	-	-	-
+Bernardin0	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+on	O	O	O	O	O	O		-	-
+comptait	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+1808	O	O	O	O	O	O		-	-
+sept	O	O	O	O	O	O		-	-
+maisons	O	O	O	O	O	O		-	-
+d'	O	O	O	O	O	O		-	-
+éleveurs	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+cultivateurs	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+									
+									
+# language = fr									
+# newspaper = DHS									
+# date = 1918-11-08									
+# document_id = Claude de Granier.fr.txt									
+# segment_iiif_link = _									
+1548	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+Yenne	O	O	O	O	O	O	Q681482	-	-
+(	O	O	O	O	O	O		-	-
+Savoie	O	O	O	O	O	O	-	-	-
+)	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+17.9.1602	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+Polinge	O	O	O	O	O	O	-	-	-
+(	O	O	O	O	O	O		-	-
+Savoie	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Fils	O	O	O	O	O	O	-	-	-
+de	O	O	O	O	O	O	-	-	-
+Bernardin	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+seigneur	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+Noyer	O	O	O	O	O	O	Q2453469	-	-
+,	O	O	O	O	O	O		-	-
+maître	O	O	O	O	O	O		-	-
+d'	O	O	O	O	O	O		-	-
+hôtel	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Jacques	O	O	O	O	O	O	Q118703	-	-
+de	O	O	O	O	O	O	Q118703	-	-
+Savoie	O	O	O	O	O	O	Q118703	-	-
+,	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+d'	O	O	O	O	O	O		-	-
+Anne	O	O	O	O	O	O	-	-	-
+-	O	O	O	O	O	O	-	-	-
+Antoinette	O	O	O	O	O	O	-	-	-
+du	O	O	O	O	O	O	-	-	-
+Châtelard	O	O	O	O	O	O	-	-	-
+.	O	O	O	O	O	O	-	-	-
+Collège	O	O	O	O	O	O	-	-	-
+à	O	O	O	O	O	O		-	-
+Annecy	O	O	O	O	O	O	Q50189	-	-
+(	O	O	O	O	O	O		-	-
+1555	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+noviciat	O	O	O	O	O	O	Q837999	-	-
+au	O	O	O	O	O	O		-	-
+prieuré	O	O	O	O	O	O	Q2820731	-	-
+de	O	O	O	O	O	O	Q2820731	-	-
+Talloires	O	O	O	O	O	O	Q2820731	-	-
+,	O	O	O	O	O	O		-	-
+où	O	O	O	O	O	O		-	-
+G.	O	O	O	O	O	O		-	-
+est	O	O	O	O	O	O		-	-
+nommé	O	O	O	O	O	O		-	-
+prieur	O	O	O	O	O	O	Q56556193	-	-
+commendataire	O	O	O	O	O	O	Q56556193	-	-
+par	O	O	O	O	O	O		-	-
+bulles	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+7	O	O	O	O	O	O	Q2989	-	-
+novembre	O	O	O	O	O	O	Q2989	-	-
+1563	O	O	O	O	O	O		-	-
+sur	O	O	O	O	O	O		-	-
+proposition	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+duc	O	O	O	O	O	O	Q76508	-	-
+Emmanuel	O	O	O	O	O	O	Q76508	-	-
+-	O	O	O	O	O	O	Q76508	-	-
+Philibert	O	O	O	O	O	O	Q76508	-	-
+de	O	O	O	O	O	O	Q76508	-	-
+Savoie	O	O	O	O	O	O	Q76508	-	-
+.	O	O	O	O	O	O		-	-
+Il	O	O	O	O	O	O		-	-
+termine	O	O	O	O	O	O		-	-
+ses	O	O	O	O	O	O		-	-
+études	O	O	O	O	O	O		-	-
+au	O	O	O	O	O	O		-	-
+collège	O	O	O	O	O	O		-	-
+des	O	O	O	O	O	O		-	-
+jésuites	O	O	O	O	O	O	Q36380	-	-
+à	O	O	O	O	O	O		-	-
+Rome	O	O	O	O	O	O	Q220	-	-
+où	O	O	O	O	O	O		-	-
+il	O	O	O	O	O	O		-	-
+est	O	O	O	O	O	O		-	-
+ordonné	O	O	O	O	O	O	Q662862	-	-
+prêtre	O	O	O	O	O	O	Q662862	-	-
+vers	O	O	O	O	O	O		-	-
+1572	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+G.	O	O	O	O	O	O		-	-
+est	O	O	O	O	O	O		-	-
+nommé	O	O	O	O	O	O		-	-
+évêque	O	O	O	O	O	O	Q29182	-	-
+de	O	O	O	O	O	O		-	-
+Genève	O	O	O	O	O	O	Q71	-	-
+par	O	O	O	O	O	O		-	-
+bulles	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+15	O	O	O	O	O	O	Q2383	-	-
+décembre	O	O	O	O	O	O	Q2383	-	-
+1578	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Il	O	O	O	O	O	O		-	-
+participe	O	O	O	O	O	O		-	-
+activement	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+recatholicisation	O	O	O	O	O	O	Q1841	-	-
+du	O	O	O	O	O	O		-	-
+Chablais	O	O	O	O	O	O	Q869650	-	-
+,	O	O	O	O	O	O		-	-
+conquis	O	O	O	O	O	O		-	-
+par	O	O	O	O	O	O		-	-
+les	O	O	O	O	O	O		-	-
+Bernois	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+1536	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+rendu	O	O	O	O	O	O		-	-
+au	O	O	O	O	O	O		-	-
+duc	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Savoie	O	O	O	O	O	O	-	-	-
+par	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+traité	O	O	O	O	O	O	Q3536817	-	-
+de	O	O	O	O	O	O	Q3536817	-	-
+Lausanne	O	O	O	O	O	O	Q3536817	-	-
+de	O	O	O	O	O	O	Q3536817	-	-
+1564	O	O	O	O	O	O	Q3536817	-	-
+.	O	O	O	O	O	O		-	-
+									
+									
+# language = fr									
+# newspaper = DHS									
+# date = 1918-11-08									
+# document_id = Daniel de Chambrier.fr.txt									
+# segment_iiif_link = _									
+17.1.1665	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+Neuchâtel	O	O	O	O	O	O	Q69345	-	-
+,	O	O	O	O	O	O		-	-
+13.2.1728	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+Bois-le-Duc	O	O	O	O	O	O	Q2766547	-	-
+(	O	O	O	O	O	O		-	-
+Pays	O	O	O	O	O	O	Q29999	-	-
+-	O	O	O	O	O	O	Q29999	-	-
+Bas	O	O	O	O	O	O	Q29999	-	-
+)	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+prot	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Neuchâtel	O	O	O	O	O	O	Q69345	-	-
+.	O	O	O	O	O	O		-	-
+Fils	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Rodolphe	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+conseiller	O	O	O	O	O	O	Q2994367	-	-
+d'	O	O	O	O	O	O	Q2994367	-	-
+Etat	O	O	O	O	O	O	Q2994367	-	-
+,	O	O	O	O	O	O		-	-
+trésorier	O	O	O	O	O	O		-	-
+général	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Suzanne	O	O	O	O	O	O	-	-	-
+Marval	O	O	O	O	O	O	-	-	-
+.	O	O	O	O	O	O	-	-	-
+Petit-fils	O	O	O	O	O	O	-	-	-
+de	O	O	O	O	O	O	-	-	-
+François	O	O	O	O	O	O	-	-	-
+de	O	O	O	O	O	O	-	-	-
+Marval	O	O	O	O	O	O	-	-	-
+.	O	O	O	O	O	O	-	-	-
+1698	O	O	O	O	O	O	-	-	-
+Gratiane	O	O	O	O	O	O	-	-	-
+Catherine	O	O	O	O	O	O	-	-	-
+Sweerts	O	O	O	O	O	O	-	-	-
+de	O	O	O	O	O	O	-	-	-
+Landas	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+fille	O	O	O	O	O	O		-	-
+d'	O	O	O	O	O	O		-	-
+Hendrick	O	O	O	O	O	O	-	-	-
+Fredrick	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+seigneur	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Baerschot	O	O	O	O	O	O	-	-	-
+.	O	O	O	O	O	O	-	-	-
+Etudiant	O	O	O	O	O	O	-	-	-
+à	O	O	O	O	O	O		-	-
+Bâle	O	O	O	O	O	O	Q78	-	-
+(	O	O	O	O	O	O		-	-
+1682	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+Saumur	O	O	O	O	O	O	Q193821	-	-
+et	O	O	O	O	O	O		-	-
+Heidelberg	O	O	O	O	O	O	Q2966	-	-
+.	O	O	O	O	O	O		-	-
+Receveur	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+Colombier	O	O	O	O	O	O	-	-	-
+(	O	O	O	O	O	O		-	-
+1687	O	O	O	O	O	O		-	-
+-	O	O	O	O	O	O		-	-
+1690	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Au	O	O	O	O	O	O		-	-
+service	O	O	O	O	O	O		-	-
+des	O	O	O	O	O	O		-	-
+Provinces	O	O	O	O	O	O	Q170072	-	-
+-	O	O	O	O	O	O	Q170072	-	-
+Unies	O	O	O	O	O	O	Q170072	-	-
+dès	O	O	O	O	O	O		-	-
+1691	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+capitaine	O	O	O	O	O	O		-	-
+au	O	O	O	O	O	O		-	-
+régiment	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Montbrun	O	O	O	O	O	O	-	-	-
+(	O	O	O	O	O	O		-	-
+1692	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+En	O	O	O	O	O	O		-	-
+1694	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+mission	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+Angleterre	O	O	O	O	O	O	Q21	-	-
+auprès	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Guillaume	O	O	O	O	O	O	Q129987	-	-
+ 	O	O	O	O	O	O	Q129987	-	-
+III	O	O	O	O	O	O	Q129987	-	-
+.	O	O	O	O	O	O		-	-
+Colonel	O	O	O	O	O	O		-	-
+au	O	O	O	O	O	O		-	-
+régiment	O	O	O	O	O	O	Q16009085	-	-
+de	O	O	O	O	O	O	Q16009085	-	-
+Muralt	O	O	O	O	O	O	Q16009085	-	-
+.	O	O	O	O	O	O		-	-
+Brigadier	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+1709	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+C.	O	O	O	O	O	O		-	-
+est	O	O	O	O	O	O		-	-
+blessé	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O	Q316897	-	-
+Malplaquet	O	O	O	O	O	O	Q316897	-	-
+.	O	O	O	O	O	O		-	-
+En	O	O	O	O	O	O		-	-
+1717	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+il	O	O	O	O	O	O		-	-
+est	O	O	O	O	O	O		-	-
+choisi	O	O	O	O	O	O		-	-
+par	O	O	O	O	O	O		-	-
+les	O	O	O	O	O	O		-	-
+Etats	O	O	O	O	O	O	Q1463941	-	-
+généraux	O	O	O	O	O	O	Q1463941	-	-
+pour	O	O	O	O	O	O		-	-
+être	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+gouverneur	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+futur	O	O	O	O	O	O		-	-
+Guillaume	O	O	O	O	O	O	Q130822	-	-
+ 	O	O	O	O	O	O	Q130822	-	-
+IV	O	O	O	O	O	O	Q130822	-	-
+.	O	O	O	O	O	O		-	-
+Général	O	O	O	O	O	O	Q157148	-	-
+-	O	O	O	O	O	O	Q157148	-	-
+major	O	O	O	O	O	O	Q157148	-	-
+en	O	O	O	O	O	O		-	-
+1727	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+									
+									
+# language = fr									
+# newspaper = DHS									
+# date = 1918-11-08									
+# document_id = Danube.fr.txt									
+# segment_iiif_link = _									
+Le	O	O	O	O	O	O		-	-
+D.	O	O	O	O	O	O		-	-
+est	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+deuxième	O	O	O	O	O	O		-	-
+fleuve	O	O	O	O	O	O		-	-
+d'	O	O	O	O	O	O		-	-
+Europe	O	O	O	O	O	O	Q46	-	-
+par	O	O	O	O	O	O		-	-
+sa	O	O	O	O	O	O		-	-
+longueur	O	O	O	O	O	O		-	-
+(	O	O	O	O	O	O		-	-
+2850	O	O	O	O	O	O		-	-
+km	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Son	O	O	O	O	O	O		-	-
+bassin	O	O	O	O	O	O		-	-
+inclut	O	O	O	O	O	O		-	-
+des	O	O	O	O	O	O		-	-
+pays	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+centre	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+est	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+continent	O	O	O	O	O	O		-	-
+:	O	O	O	O	O	O		-	-
+Allemagne	O	O	O	O	O	O	Q183	-	-
+,	O	O	O	O	O	O		-	-
+Autriche	O	O	O	O	O	O	Q40	-	-
+,	O	O	O	O	O	O		-	-
+Slovaquie	O	O	O	O	O	O	Q214	-	-
+,	O	O	O	O	O	O		-	-
+Hongrie	O	O	O	O	O	O	Q28	-	-
+,	O	O	O	O	O	O		-	-
+Serbie	O	O	O	O	O	O	Q403	-	-
+,	O	O	O	O	O	O		-	-
+Roumanie	O	O	O	O	O	O	Q218	-	-
+,	O	O	O	O	O	O		-	-
+Bulgarie	O	O	O	O	O	O	Q219	-	-
+,	O	O	O	O	O	O		-	-
+Ukraine	O	O	O	O	O	O	Q212	-	-
+;	O	O	O	O	O	O		-	-
+par	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+Inn	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+qui	O	O	O	O	O	O		-	-
+se	O	O	O	O	O	O		-	-
+jette	O	O	O	O	O	O		-	-
+dans	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+D.	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+Passau	O	O	O	O	O	O	Q4190	-	-
+,	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+Suisse	O	O	O	O	O	O	Q39	-	-
+fait	O	O	O	O	O	O		-	-
+aussi	O	O	O	O	O	O		-	-
+partie	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+son	O	O	O	O	O	O		-	-
+système	O	O	O	O	O	O		-	-
+fluvial	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+A	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+époque	O	O	O	O	O	O	Q1747689	-	-
+romaine	O	O	O	O	O	O	Q1747689	-	-
+,	O	O	O	O	O	O		-	-
+les	O	O	O	O	O	O		-	-
+régions	O	O	O	O	O	O		-	-
+entre	O	O	O	O	O	O		-	-
+Inn	O	O	O	O	O	O	-	-	-
+et	O	O	O	O	O	O	-	-	-
+D.	O	O	O	O	O	O	-	-	-
+(	O	O	O	O	O	O		-	-
+actuellement	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+Suisse	O	O	O	O	O	O	Q39	-	-
+et	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+Allemagne	O	O	O	O	O	O	Q183	-	-
+)	O	O	O	O	O	O		-	-
+formaient	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+province	O	O	O	O	O	O	Q156789	-	-
+de	O	O	O	O	O	O	Q156789	-	-
+Rhétie	O	O	O	O	O	O	Q156789	-	-
+.	O	O	O	O	O	O		-	-
+Le	O	O	O	O	O	O		-	-
+Plateau	O	O	O	O	O	O		-	-
+y	O	O	O	O	O	O		-	-
+était	O	O	O	O	O	O		-	-
+relié	O	O	O	O	O	O		-	-
+par	O	O	O	O	O	O		-	-
+deux	O	O	O	O	O	O		-	-
+grandes	O	O	O	O	O	O		-	-
+routes	O	O	O	O	O	O	Q405155	-	-
+commerciales	O	O	O	O	O	O	Q405155	-	-
+,	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+une	O	O	O	O	O	O		-	-
+passant	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+est	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+lac	O	O	O	O	O	O	Q4127	-	-
+de	O	O	O	O	O	O	Q4127	-	-
+Constance	O	O	O	O	O	O	Q4127	-	-
+(	O	O	O	O	O	O		-	-
+Vindonissa	O	O	O	O	O	O	Q667811	-	-
+-	O	O	O	O	O	O		-	-
+Arbon	O	O	O	O	O	O	Q64156	-	-
+-	O	O	O	O	O	O		-	-
+Augsbourg	O	O	O	O	O	O	Q2749	-	-
+)	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+autre	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+ouest	O	O	O	O	O	O		-	-
+(	O	O	O	O	O	O		-	-
+Zurzach	O	O	O	O	O	O	Q64186	-	-
+-	O	O	O	O	O	O		-	-
+région	O	O	O	O	O	O	Q36784	-	-
+des	O	O	O	O	O	O		-	-
+sources	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+D.	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+On	O	O	O	O	O	O		-	-
+transportait	O	O	O	O	O	O		-	-
+sur	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+fleuve	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+fer	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+céramique	O	O	O	O	O	O	Q367622	-	-
+sigillée	O	O	O	O	O	O	Q367622	-	-
+et	O	O	O	O	O	O		-	-
+des	O	O	O	O	O	O		-	-
+matériaux	O	O	O	O	O	O	Q206615	-	-
+de	O	O	O	O	O	O	Q206615	-	-
+construction	O	O	O	O	O	O	Q206615	-	-
+.	O	O	O	O	O	O		-	-
+Au	O	O	O	O	O	O		-	-
+IIIe	O	O	O	O	O	O		-	-
+ 	O	O	O	O	O	O		-	-
+s.	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+les	O	O	O	O	O	O		-	-
+Romains	O	O	O	O	O	O	Q1747689	-	-
+durent	O	O	O	O	O	O		-	-
+céder	O	O	O	O	O	O		-	-
+aux	O	O	O	O	O	O		-	-
+Alamans	O	O	O	O	O	O	Q132990	-	-
+les	O	O	O	O	O	O		-	-
+territoires	O	O	O	O	O	O		-	-
+sis	O	O	O	O	O	O		-	-
+au	O	O	O	O	O	O		-	-
+nord	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+D.	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+lequel	O	O	O	O	O	O		-	-
+marqua	O	O	O	O	O	O		-	-
+dès	O	O	O	O	O	O		-	-
+lors	O	O	O	O	O	O		-	-
+avec	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+Iller	O	O	O	O	O	O	Q159467	-	-
+et	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+Rhin	O	O	O	O	O	O	Q584	-	-
+la	O	O	O	O	O	O		-	-
+frontière	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+Empire	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+limes	O	O	O	O	O	O	Q146924	-	-
+.	O	O	O	O	O	O		-	-
+Un	O	O	O	O	O	O		-	-
+réseau	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+routes	O	O	O	O	O	O		-	-
+reliait	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+ligne	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+défense	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+arrière-pays	O	O	O	O	O	O	Q4354	-	-
+(	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+ouest	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+au	O	O	O	O	O	O		-	-
+sud	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Au	O	O	O	O	O	O		-	-
+Moyen	O	O	O	O	O	O	Q12554	-	-
+Age	O	O	O	O	O	O	Q12554	-	-
+,	O	O	O	O	O	O		-	-
+les	O	O	O	O	O	O		-	-
+villes	O	O	O	O	O	O		-	-
+danubiennes	O	O	O	O	O	O		-	-
+étaient	O	O	O	O	O	O		-	-
+d'	O	O	O	O	O	O		-	-
+actifs	O	O	O	O	O	O		-	-
+centres	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+négoce	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+On	O	O	O	O	O	O		-	-
+descendait	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+fleuve	O	O	O	O	O	O		-	-
+depuis	O	O	O	O	O	O		-	-
+Ulm	O	O	O	O	O	O	Q3012	-	-
+sur	O	O	O	O	O	O		-	-
+des	O	O	O	O	O	O		-	-
+barques	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+rame	O	O	O	O	O	O		-	-
+;	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+sel	O	O	O	O	O	O	Q11254	-	-
+était	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+marchandise	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+plus	O	O	O	O	O	O		-	-
+importante	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Des	O	O	O	O	O	O		-	-
+marchands	O	O	O	O	O	O		-	-
+suisses	O	O	O	O	O	O		-	-
+étaient	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+affaires	O	O	O	O	O	O		-	-
+avec	O	O	O	O	O	O		-	-
+Ulm	O	O	O	O	O	O	Q3012	-	-
+par	O	O	O	O	O	O		-	-
+Constance	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+Schaffhouse	O	O	O	O	O	O	Q9009	-	-
+.	O	O	O	O	O	O		-	-
+L'	O	O	O	O	O	O		-	-
+Inn	O	O	O	O	O	O		-	-
+servait	O	O	O	O	O	O		-	-
+au	O	O	O	O	O	O		-	-
+flottage	O	O	O	O	O	O	Q395976	-	-
+du	O	O	O	O	O	O	Q395976	-	-
+bois	O	O	O	O	O	O	Q395976	-	-
+qu'	O	O	O	O	O	O		-	-
+on	O	O	O	O	O	O		-	-
+exportait	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+Engadine	O	O	O	O	O	O	Q22883	-	-
+au	O	O	O	O	O	O		-	-
+Tyrol	O	O	O	O	O	O	Q153809	-	-
+;	O	O	O	O	O	O		-	-
+sa	O	O	O	O	O	O		-	-
+vallée	O	O	O	O	O	O		-	-
+offrait	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+outre	O	O	O	O	O	O		-	-
+une	O	O	O	O	O	O		-	-
+voie	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+passage	O	O	O	O	O	O		-	-
+pour	O	O	O	O	O	O		-	-
+les	O	O	O	O	O	O		-	-
+hommes	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+les	O	O	O	O	O	O		-	-
+marchandises	O	O	O	O	O	O		-	-
+entre	O	O	O	O	O	O		-	-
+les	O	O	O	O	O	O		-	-
+pays	O	O	O	O	O	O	Q28513	-	-
+danubiens	O	O	O	O	O	O	Q28513	-	-
+et	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+Lombardie	O	O	O	O	O	O	Q1210	-	-
+(	O	O	O	O	O	O		-	-
+route	O	O	O	O	O	O		-	-
+Vienne	O	O	O	O	O	O	Q1741	-	-
+-	O	O	O	O	O	O		-	-
+Milan	O	O	O	O	O	O	Q490	-	-
+)	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Depuis	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+XVIe	O	O	O	O	O	O		-	-
+ 	O	O	O	O	O	O		-	-
+s.	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+D.	O	O	O	O	O	O		-	-
+vit	O	O	O	O	O	O		-	-
+passer	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+plusieurs	O	O	O	O	O	O		-	-
+reprises	O	O	O	O	O	O		-	-
+des	O	O	O	O	O	O		-	-
+troupes	O	O	O	O	O	O		-	-
+se	O	O	O	O	O	O		-	-
+rendant	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+Europe	O	O	O	O	O	O	Q900636	-	-
+centrale	O	O	O	O	O	O	Q900636	-	-
+et	O	O	O	O	O	O	Q900636	-	-
+orientale	O	O	O	O	O	O	Q900636	-	-
+,	O	O	O	O	O	O		-	-
+tels	O	O	O	O	O	O		-	-
+ces	O	O	O	O	O	O		-	-
+Suisses	O	O	O	O	O	O		-	-
+participant	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+1595	O	O	O	O	O	O		-	-
+aux	O	O	O	O	O	O		-	-
+guerres	O	O	O	O	O	O		-	-
+contre	O	O	O	O	O	O		-	-
+les	O	O	O	O	O	O		-	-
+Turcs	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Pendant	O	O	O	O	O	O		-	-
+les	O	O	O	O	O	O		-	-
+guerres	O	O	O	O	O	O	Q207318	-	-
+de	O	O	O	O	O	O	Q207318	-	-
+la	O	O	O	O	O	O	Q207318	-	-
+Révolution	O	O	O	O	O	O	Q207318	-	-
+,	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+prince	O	O	O	O	O	O	Q22881	-	-
+-	O	O	O	O	O	O	Q22881	-	-
+évêque	O	O	O	O	O	O	Q22881	-	-
+de	O	O	O	O	O	O		-	-
+Bâle	O	O	O	O	O	O	Q78	-	-
+s'	O	O	O	O	O	O		-	-
+enfuit	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+Ulm	O	O	O	O	O	O	Q3012	-	-
+avec	O	O	O	O	O	O		-	-
+les	O	O	O	O	O	O		-	-
+archives	O	O	O	O	O	O		-	-
+épiscopales	O	O	O	O	O	O		-	-
+(	O	O	O	O	O	O		-	-
+1798	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+là	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+par	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+D.	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+Vienne	O	O	O	O	O	O	Q1741	-	-
+(	O	O	O	O	O	O		-	-
+1800	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Au	O	O	O	O	O	O		-	-
+XIXe	O	O	O	O	O	O		-	-
+ 	O	O	O	O	O	O		-	-
+s.	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+les	O	O	O	O	O	O		-	-
+voyageurs	O	O	O	O	O	O		-	-
+continuèrent	O	O	O	O	O	O		-	-
+d'	O	O	O	O	O	O		-	-
+emprunter	O	O	O	O	O	O		-	-
+cette	O	O	O	O	O	O		-	-
+voie	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+par	O	O	O	O	O	O		-	-
+exemple	O	O	O	O	O	O		-	-
+des	O	O	O	O	O	O		-	-
+Suisses	O	O	O	O	O	O		-	-
+désireux	O	O	O	O	O	O		-	-
+d'	O	O	O	O	O	O		-	-
+émigrer	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+Russie	O	O	O	O	O	O	Q159	-	-
+Le	O	O	O	O	O	O		-	-
+grand	O	O	O	O	O	O		-	-
+transit	O	O	O	O	O	O		-	-
+sur	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+D.	O	O	O	O	O	O		-	-
+prit	O	O	O	O	O	O		-	-
+son	O	O	O	O	O	O		-	-
+essor	O	O	O	O	O	O		-	-
+au	O	O	O	O	O	O		-	-
+XVIIe	O	O	O	O	O	O		-	-
+ 	O	O	O	O	O	O		-	-
+s.	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+époque	O	O	O	O	O	O		-	-
+où	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+on	O	O	O	O	O	O		-	-
+commença	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+placer	O	O	O	O	O	O		-	-
+son	O	O	O	O	O	O		-	-
+cours	O	O	O	O	O	O		-	-
+navigable	O	O	O	O	O	O		-	-
+sous	O	O	O	O	O	O		-	-
+les	O	O	O	O	O	O		-	-
+règles	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+droit	O	O	O	O	O	O	Q6406743	-	-
+international	O	O	O	O	O	O	Q6406743	-	-
+.	O	O	O	O	O	O		-	-
+Le	O	O	O	O	O	O		-	-
+traité	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Paris	O	O	O	O	O	O	Q90	-	-
+(	O	O	O	O	O	O		-	-
+1856	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+qui	O	O	O	O	O	O		-	-
+mit	O	O	O	O	O	O		-	-
+fin	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+guerre	O	O	O	O	O	O	Q254106	-	-
+de	O	O	O	O	O	O	Q254106	-	-
+Crimée	O	O	O	O	O	O	Q254106	-	-
+,	O	O	O	O	O	O		-	-
+garantit	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+libre	O	O	O	O	O	O		-	-
+navigation	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+tous	O	O	O	O	O	O		-	-
+les	O	O	O	O	O	O		-	-
+Etats	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+même	O	O	O	O	O	O		-	-
+non	O	O	O	O	O	O		-	-
+riverains	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+internationalisa	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+fleuve	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Pour	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+Suisse	O	O	O	O	O	O	Q39	-	-
+aussi	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+un	O	O	O	O	O	O		-	-
+libre	O	O	O	O	O	O		-	-
+accès	O	O	O	O	O	O	Q123480	-	-
+à	O	O	O	O	O	O	Q123480	-	-
+la	O	O	O	O	O	O	Q123480	-	-
+mer	O	O	O	O	O	O	Q123480	-	-
+devint	O	O	O	O	O	O		-	-
+important	O	O	O	O	O	O		-	-
+après	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+Première	O	O	O	O	O	O	Q361	-	-
+Guerre	O	O	O	O	O	O	Q361	-	-
+mondiale	O	O	O	O	O	O	Q361	-	-
+,	O	O	O	O	O	O		-	-
+pour	O	O	O	O	O	O		-	-
+des	O	O	O	O	O	O		-	-
+raisons	O	O	O	O	O	O		-	-
+économiques	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Un	O	O	O	O	O	O		-	-
+traité	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+commerce	O	O	O	O	O	O		-	-
+conclu	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+1941	O	O	O	O	O	O		-	-
+avec	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+Union	O	O	O	O	O	O	Q15180	-	-
+soviétique	O	O	O	O	O	O	Q15180	-	-
+prévoyait	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+développer	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+trafic	O	O	O	O	O	O		-	-
+suisse	O	O	O	O	O	O	Q39	-	-
+sur	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+D.	O	O	O	O	O	O		-	-
+;	O	O	O	O	O	O		-	-
+il	O	O	O	O	O	O		-	-
+ne	O	O	O	O	O	O		-	-
+put	O	O	O	O	O	O		-	-
+entrer	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+vigueur	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+guerre	O	O	O	O	O	O		-	-
+ayant	O	O	O	O	O	O		-	-
+éclaté	O	O	O	O	O	O		-	-
+entre	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+Allemagne	O	O	O	O	O	O	Q183	-	-
+et	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+URSS	O	O	O	O	O	O	Q15180	-	-
+.	O	O	O	O	O	O		-	-
+Après	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+Deuxième	O	O	O	O	O	O	Q362	-	-
+Guerre	O	O	O	O	O	O	Q362	-	-
+mondiale	O	O	O	O	O	O	Q362	-	-
+,	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+statut	O	O	O	O	O	O		-	-
+juridique	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+fleuve	O	O	O	O	O	O		-	-
+fut	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+objet	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+contestations	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+La	O	O	O	O	O	O		-	-
+Suisse	O	O	O	O	O	O	Q39	-	-
+n'	O	O	O	O	O	O		-	-
+obtint	O	O	O	O	O	O		-	-
+pas	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+1948	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+siège	O	O	O	O	O	O		-	-
+qu'	O	O	O	O	O	O		-	-
+elle	O	O	O	O	O	O		-	-
+souhaitait	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+Commission	O	O	O	O	O	O	-	-	-
+internationale	O	O	O	O	O	O	-	-	-
+du	O	O	O	O	O	O	-	-	-
+D.	O	O	O	O	O	O	-	-	-
+Depuis	O	O	O	O	O	O	-	-	-
+Charlemagne	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+on	O	O	O	O	O	O		-	-
+tente	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+relier	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+D.	O	O	O	O	O	O		-	-
+au	O	O	O	O	O	O		-	-
+Rhin	O	O	O	O	O	O	Q584	-	-
+(	O	O	O	O	O	O		-	-
+Fossa	O	O	O	O	O	O	-	-	-
+Carolina	O	O	O	O	O	O	-	-	-
+)	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Si	O	O	O	O	O	O		-	-
+un	O	O	O	O	O	O		-	-
+projet	O	O	O	O	O	O		-	-
+suisse	O	O	O	O	O	O	Q39	-	-
+de	O	O	O	O	O	O		-	-
+1897	O	O	O	O	O	O		-	-
+(	O	O	O	O	O	O		-	-
+canal	O	O	O	O	O	O		-	-
+Rhin	O	O	O	O	O	O	Q584	-	-
+-	O	O	O	O	O	O		-	-
+Aar	O	O	O	O	O	O	Q1675	-	-
+-	O	O	O	O	O	O		-	-
+Bodan	O	O	O	O	O	O		-	-
+-	O	O	O	O	O	O		-	-
+Danube	O	O	O	O	O	O	Q1653	-	-
+)	O	O	O	O	O	O		-	-
+échoua	O	O	O	O	O	O		-	-
+dans	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+immédiat	O	O	O	O	O	O		-	-
+après-guerre	O	O	O	O	O	O	Q1201472	-	-
+,	O	O	O	O	O	O		-	-
+malgré	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+intérêt	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+économie	O	O	O	O	O	O		-	-
+privée	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+vieille	O	O	O	O	O	O		-	-
+idée	O	O	O	O	O	O		-	-
+d'	O	O	O	O	O	O		-	-
+un	O	O	O	O	O	O		-	-
+réseau	O	O	O	O	O	O	Q1267889	-	-
+fluvial	O	O	O	O	O	O	Q1267889	-	-
+européen	O	O	O	O	O	O		-	-
+aboutit	O	O	O	O	O	O		-	-
+enfin	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+1992	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+quand	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+mise	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+service	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+canal	O	O	O	O	O	O	Q153085	-	-
+Main	O	O	O	O	O	O	Q153085	-	-
+-	O	O	O	O	O	O	Q153085	-	-
+Danube	O	O	O	O	O	O	Q153085	-	-
+ouvrit	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+navigation	O	O	O	O	O	O		-	-
+une	O	O	O	O	O	O		-	-
+liaison	O	O	O	O	O	O		-	-
+avec	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+Rhin	O	O	O	O	O	O	Q584	-	-
+.	O	O	O	O	O	O		-	-
+									
+									
+# language = fr									
+# newspaper = DHS									
+# date = 1918-11-08									
+# document_id = Emile Vuichoud.fr.txt									
+# segment_iiif_link = _									
+24.1.1856	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+Pertit	O	O	O	O	O	O		-	-
+(	O	O	O	O	O	O		-	-
+Le	O	O	O	O	O	O		-	-
+Châtelard	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+auj	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+comm	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Montreux	O	O	O	O	O	O	Q69354	-	-
+)	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+25.7.1906	O	O	O	O	O	O		-	-
+au	O	O	O	O	O	O		-	-
+Châtelard	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+prot	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+Châtelard	O	O	O	O	O	O	-	-	-
+.	O	O	O	O	O	O	-	-	-
+Fils	O	O	O	O	O	O	-	-	-
+de	O	O	O	O	O	O		-	-
+Jules	O	O	O	O	O	O	-	-	-
+-	O	O	O	O	O	O	-	-	-
+Emmanuel	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+agriculteur	O	O	O	O	O	O	Q131512	-	-
+,	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Françoise	O	O	O	O	O	O	Q3086570	-	-
+Perret	O	O	O	O	O	O	Q3086570	-	-
+.	O	O	O	O	O	O		-	-
+​1	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+1885	O	O	O	O	O	O		-	-
+Gabrielle	O	O	O	O	O	O	-	-	-
+Marquis	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+fille	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+Charles	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+propriétaire	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+château	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+Châtelard	O	O	O	O	O	O	-	-	-
+et	O	O	O	O	O	O		-	-
+cofondateur	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+société	O	O	O	O	O	O		-	-
+Nestlé	O	O	O	O	O	O	Q160746	-	-
+,	O	O	O	O	O	O		-	-
+2	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+1893	O	O	O	O	O	O		-	-
+Frédérique	O	O	O	O	O	O	-	-	-
+Marquis	O	O	O	O	O	O	-	-	-
+,	O	O	O	O	O	O		-	-
+sœur	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+précédente	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Etudes	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+droit	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+académie	O	O	O	O	O	O	Q658975	-	-
+de	O	O	O	O	O	O	Q658975	-	-
+Lausanne	O	O	O	O	O	O	Q658975	-	-
+et	O	O	O	O	O	O		-	-
+à	O	O	O	O	O	O		-	-
+l'	O	O	O	O	O	O		-	-
+université	O	O	O	O	O	O	Q154804	-	-
+de	O	O	O	O	O	O	Q154804	-	-
+Leipzig	O	O	O	O	O	O	Q154804	-	-
+(	O	O	O	O	O	O		-	-
+licence	O	O	O	O	O	O		-	-
+en	O	O	O	O	O	O		-	-
+1879	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+brevet	O	O	O	O	O	O		-	-
+d'	O	O	O	O	O	O		-	-
+avocat	O	O	O	O	O	O	Q40348	-	-
+en	O	O	O	O	O	O		-	-
+1881	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Avocat	O	O	O	O	O	O	Q40348	-	-
+à	O	O	O	O	O	O		-	-
+Montreux	O	O	O	O	O	O	Q69354	-	-
+(	O	O	O	O	O	O		-	-
+1882	O	O	O	O	O	O		-	-
+-	O	O	O	O	O	O		-	-
+1884	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+juge	O	O	O	O	O	O		-	-
+au	O	O	O	O	O	O		-	-
+tribunal	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+district	O	O	O	O	O	O	Q689290	-	-
+de	O	O	O	O	O	O	Q689290	-	-
+Vevey	O	O	O	O	O	O	Q689290	-	-
+(	O	O	O	O	O	O		-	-
+1884	O	O	O	O	O	O		-	-
+-	O	O	O	O	O	O		-	-
+1885	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+V.	O	O	O	O	O	O		-	-
+fut	O	O	O	O	O	O		-	-
+ensuite	O	O	O	O	O	O		-	-
+rentier	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+propriétaire	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+château	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+Châtelard	O	O	O	O	O	O	-	-	-
+.	O	O	O	O	O	O		-	-
+Conseiller	O	O	O	O	O	O	Q2647159	-	-
+municipal	O	O	O	O	O	O	Q2647159	-	-
+du	O	O	O	O	O	O		-	-
+Châtelard	O	O	O	O	O	O	-	-	-
+dès	O	O	O	O	O	O		-	-
+1882	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+syndic	O	O	O	O	O	O	Q1339249	-	-
+entre	O	O	O	O	O	O		-	-
+1887	O	O	O	O	O	O		-	-
+et	O	O	O	O	O	O		-	-
+1901	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Membre	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+Constituante	O	O	O	O	O	O		-	-
+(	O	O	O	O	O	O		-	-
+1884	O	O	O	O	O	O		-	-
+-	O	O	O	O	O	O		-	-
+1885	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+député	O	O	O	O	O	O		-	-
+libéral	O	O	O	O	O	O		-	-
+au	O	O	O	O	O	O		-	-
+Grand	O	O	O	O	O	O	Q2131740	-	-
+Conseil	O	O	O	O	O	O	Q2131740	-	-
+vaudois	O	O	O	O	O	O	Q2131740	-	-
+(	O	O	O	O	O	O		-	-
+1885	O	O	O	O	O	O		-	-
+-	O	O	O	O	O	O		-	-
+1901	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+conseiller	O	O	O	O	O	O	Q676078	-	-
+national	O	O	O	O	O	O	Q676078	-	-
+(	O	O	O	O	O	O		-	-
+1902	O	O	O	O	O	O		-	-
+-	O	O	O	O	O	O		-	-
+1906	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Président	O	O	O	O	O	O		-	-
+des	O	O	O	O	O	O		-	-
+conseils	O	O	O	O	O	O	Q188628	-	-
+d'	O	O	O	O	O	O	Q188628	-	-
+administration	O	O	O	O	O	O	Q188628	-	-
+de	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+Banque	O	O	O	O	O	O	-	-	-
+de	O	O	O	O	O	O	-	-	-
+Montreux	O	O	O	O	O	O	-	-	-
+et	O	O	O	O	O	O		-	-
+du	O	O	O	O	O	O		-	-
+chemin	O	O	O	O	O	O	Q22667	-	-
+de	O	O	O	O	O	O	Q22667	-	-
+fer	O	O	O	O	O	O	Q22667	-	-
+Montreux	O	O	O	O	O	O	Q617732	-	-
+-	O	O	O	O	O	O	Q617732	-	-
+Oberland	O	O	O	O	O	O	Q617732	-	-
+bernois	O	O	O	O	O	O	Q617732	-	-
+,	O	O	O	O	O	O		-	-
+administrateur	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+Société	O	O	O	O	O	O	Q3441016	-	-
+électrique	O	O	O	O	O	O	Q3441016	-	-
+Vevey	O	O	O	O	O	O	Q3441016	-	-
+-	O	O	O	O	O	O	Q3441016	-	-
+Montreux	O	O	O	O	O	O	Q3441016	-	-
+(	O	O	O	O	O	O		-	-
+1886	O	O	O	O	O	O		-	-
+-	O	O	O	O	O	O		-	-
+1889	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+,	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+Compagnie	O	O	O	O	O	O	Q676230	-	-
+générale	O	O	O	O	O	O	Q676230	-	-
+de	O	O	O	O	O	O	Q676230	-	-
+navigation	O	O	O	O	O	O	Q676230	-	-
+sur	O	O	O	O	O	O		-	-
+le	O	O	O	O	O	O		-	-
+lac	O	O	O	O	O	O	Q6403	-	-
+Léman	O	O	O	O	O	O	Q6403	-	-
+et	O	O	O	O	O	O		-	-
+de	O	O	O	O	O	O		-	-
+la	O	O	O	O	O	O		-	-
+compagnie	O	O	O	O	O	O	Q2143354	-	-
+d'	O	O	O	O	O	O	Q2143354	-	-
+assurances	O	O	O	O	O	O	Q2143354	-	-
+La	O	O	O	O	O	O	Q1150379	-	-
+Suisse	O	O	O	O	O	O	Q1150379	-	-
+(	O	O	O	O	O	O		-	-
+1893	O	O	O	O	O	O		-	-
+-	O	O	O	O	O	O		-	-
+1906	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Major	O	O	O	O	O	O	-	-	-
+d'	O	O	O	O	O	O		-	-
+artillerie	O	O	O	O	O	O		-	-
+(	O	O	O	O	O	O		-	-
+1895	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
+Bellettrien	O	O	O	O	O	O	Q2297122	-	-
+(	O	O	O	O	O	O		-	-
+1872	O	O	O	O	O	O		-	-
+-	O	O	O	O	O	O		-	-
+1878	O	O	O	O	O	O		-	-
+)	O	O	O	O	O	O		-	-
+.	O	O	O	O	O	O		-	-
