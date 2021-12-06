@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name='nlp_pred_true_comparator',
+    name='nlppredtruecomparator',
     version='0.1.0',    
     description='A small tool to interactively compare prediction and ground truth in Jupyter for NLP tasks.',
-    url='https://github.com/dddpt/dhs-scraper',
+    url='https://github.com/dddpt/nlp_pred_true_comparator',
     author='Didier Dupertuis',
     license='Apache License 2.0',
     packages=['src'],
