@@ -30,12 +30,17 @@ def compare_pred_true(
     separatorsProperty:str = "MISC", # the entry for line separators, which contains any combination of: EndOfLine, EndOfParagraph, NoSpaceAfter
     properties_to_display:Sequence[str] =[] # additional properties to display in additon to the pred-true comparison
 ):
-    for p in pred_data:
-        p["text"] = p[text_property]
-    for t in true_data:
-        t["text"] = t[text_property]
-    predstr = str(pred_data).replace("\n", "")
-    truestr = str(true_data).replace("\n", "")
+    if len(pred_data) != len(true_data):
+        #raise Exception("nlp_pred_true_comparator.compare_pred_true(): len(pred_data) != len(true_data). Not possible to compare")
+        raise Exception(f"nlp_pred_true_comparator.compare_pred_true(): pred_data and true_data have different lengths, not possible to compare: len(pred_data) = {len(pred_data)} != {len(true_data)} = len(true_data)")
+    for i, pred in enumerate(pred_data):
+        pred["text"] = pred[text_property]
+        true = true_data[i]
+        true["text"] = true[text_property]
+        if true["text"] != pred["text"]:
+            raise Exception(f"nlp_pred_true_comparator.compare_pred_true(): pred_data and true_data have different text tokens, not possible to compare: pred_data[{i}][{text_property}] = {pred['text']} != {true['text']} = true_data[{i}][{text_property}]")
+    predstr = str(pred_data).replace("\n", "").replace(": None,", ": '',")
+    truestr = str(true_data).replace("\n", "").replace(": None,", ": '',")
     properties_to_display_str = str(properties_to_display).replace("\n", "")
     jsCode = css_string_var_declaration+pred_true_comparator_js_content+f'''
     element.append(visualizePredTrueComparison({predstr}, {truestr}, "{compare_property}", "{separatorsProperty}", {properties_to_display_str}))'''
